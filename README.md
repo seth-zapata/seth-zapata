@@ -42,4 +42,6 @@ I try to measure things rather than assert them — and to publish the results t
 
 ## Reach me
 
-[seth.zapata17@gmail.com](mailto:seth.zapata17@gmail.com) · [LinkedIn](https://linkedin.com/in/sethzapata) · San Antonio, TX
+[LinkedIn](https://linkedin.com/in/sethzapata) · San Antonio, TX
+
+Best reached through LinkedIn.
